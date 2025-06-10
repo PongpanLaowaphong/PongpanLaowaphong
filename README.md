@@ -3,8 +3,8 @@
 Welcome to my GitHub! 😊
 
 ## 🧑‍💻 About Me
-- 🎓 Computer Engineering Student
-- 💡 Passionate about AI, Machine Learning, and Web Development
+- 🎓 Computer Engineering Student of Rajamangala University of Technology Lanna
+- 💡 Passionate about Computer Networking, Cybersecurity, and Web Development
 - 🌱 Currently learning Git, React, and FastAPI
 - 🛠 Skills: Python, C, JavaScript, SQL, HTML/CSS
 
