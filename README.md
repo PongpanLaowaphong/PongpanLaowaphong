@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">🎓 Education</h4>
+<h3 align="left">🎓 Education</h4>
 
 ###
 
