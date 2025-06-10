@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm Pongpan Laowaphong
 
-<!--
-**PongpanLaowaphong/PongpanLaowaphong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 😊
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🎓 Computer Engineering Student
+- 💡 Passionate about AI, Machine Learning, and Web Development
+- 🌱 Currently learning Git, React, and FastAPI
+- 🛠 Skills: Python, C, JavaScript, SQL, HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 What's in this Repository?
+This **Introduction** repository is a brief showcase of:
+- Who I am
+- My interests in programming
+- My journey into tech and development
+
+## 📫 Contact Me
+- 📧 Email: yourname@example.com  
+- 🌐 GitHub: [github.com/PongpanLaowaphong](https://github.com/PongpanLaowaphong)  
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/your-link)  
+- 📘 Facebook: [facebook.com/yourprofile](https://www.facebook.com/yourprofile)  
+- 📸 Instagram: [instagram.com/yourprofile](https://www.instagram.com/yourprofile)  
+- 📝 Medium: [medium.com/@yourusername](https://medium.com/@yourusername)  
+- 📺 YouTube: [youtube.com/@yourchannel](https://www.youtube.com/@yourchannel)
+
+---
+
+Thanks for visiting! ⭐
