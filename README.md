@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://www.facebook.com/photo/?fbid=5125196607583162&set=a.372681356168068"  />
-</div>
-
-###
-
 <h1 align="center">👋 Hello, I'm Pongpan Laowaphong</h1>
 
 ###
@@ -12,19 +6,45 @@
 
 ###
 
-<h3 align="left">👨‍💼Basic Information</h3>
+<h3 align="left">👨‍💼 Basic Information</h3>
 
 ###
 
-<p align="left">- **Full Name:** Pongpan Laowaphong  <br>- **Nickname:** Hieng    <br>- **Nationality:** Thai  <br>- **Languages:** Thai (native), English (intermediate)  <br>- **Current Location:** Chiang Mai, Thailand  <br><br>- **Education:**  <br>  - Vocational Certificate in Computer Technical  <br>    - Chiang Mai Technical College (CMTC)  <br>  - High Vocational Certificate in Computer Networking  <br>    - Chiang Mai Technical College (CMTC)  <br>  - Bachelor’s Degree in Computer Engineering  <br>    - Rajamangala University of Technology Lanna (RMUTL)</p>
+<ul align="left">
+  <li><strong>Full Name:</strong> Pongpan Laowaphong</li>
+  <li><strong>Nickname:</strong> Hieng</li>
+  <li><strong>Nationality:</strong> Thai</li>
+  <li><strong>Languages:</strong> Thai (native), English (intermediate)</li>
+  <li><strong>Current Location:</strong> Chiang Mai, Thailand</li>
+</ul>
 
 ###
 
-<h3 align="left">🎯Interests</h3>
+<h4 align="left">🎓 Education</h4>
 
 ###
 
-<p align="left">- Computer Networking & Cybersecurity<br>  - Artificial Intelligence & Machine Learning <br>  - Web Development & UI/UX<br>  - Digital Art, Video Editing, and Creative Design</p>
+<ul align="left">
+  <li><strong>Vocational Certificate</strong> in Computer Technical<br/>
+      <em>Chiang Mai Technical College (CMTC)</em></li>
+  <li><strong>High Vocational Certificate</strong> in Computer Networking<br/>
+      <em>Chiang Mai Technical College (CMTC)</em></li>
+  <li><strong>Bachelor’s Degree</strong> in Computer Engineering<br/>
+      <em>Rajamangala University of Technology Lanna (RMUTL)</em></li>
+</ul>
+
+###
+
+<h3 align="left">🎯 Interests</h3>
+
+###
+
+<ul align="left">
+  <li>Computer Networking & Cybersecurity</li>
+  <li>Artificial Intelligence & Machine Learning</li>
+  <li>Web Development & UI/UX</li>
+  <li>Digital Art, Video Editing, and Creative Design</li>
+</ul>
 
 ###
 
